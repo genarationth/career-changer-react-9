@@ -25,4 +25,4 @@ const App = () => {
   );
 };
 
-export default AutoSync;
+export default App;
